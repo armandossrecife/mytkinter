@@ -1,4 +1,4 @@
-# Introdução a programação GUI com o Tkinter
+# Introdução a programação GUI com o [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 O **Tkinter** é uma biblioteca gráfica para Python que permite a criação de **interfaces gráficas** de maneira simples e intuitiva. Ele é uma das opções mais populares para o desenvolvimento de aplicativos com interface gráfica em Python devido à sua **facilidade de uso** e à sua **integração nativa** com a linguagem. O pacote **Tkinter** faz parte do kit de ferramentas **Tcl/Tk GUI** e está disponível na maioria das plataformas Unix, incluindo macOS e sistemas Windows. 
 
