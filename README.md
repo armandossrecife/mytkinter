@@ -52,7 +52,6 @@ Aqui estão alguns dos principais elementos do Tkinter:
 
 3. **Widgets essenciais**:
    - Botões, rótulos e campos de entrada de texto.
-   - Caixas de seleção (checkbuttons) e caixas de opção (radiobuttons).
    - Caixas de mensagem para exibir informações ou solicitar confirmações.
 
 4. **Gerenciadores de layout**:
