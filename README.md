@@ -133,7 +133,7 @@ Neste exemplo:
 
 ## Gerenciamento de Layout usando o place
 
-Vamos criar um exemplo simples usando o gerenciador de layout **place** no **Tkinter**. O gerenciador **place** permite que você defina explicitamente a posição e o tamanho dos widgets em termos absolutos ou em relação a outros widgets³. Aqui está um exemplo:
+Vamos criar um exemplo simples usando o gerenciador de layout **place** no **Tkinter**. O gerenciador **place** permite que você defina explicitamente a posição e o tamanho dos widgets em termos absolutos ou em relação a outros widgets. Aqui está um exemplo:
 
 ```python
 import tkinter as tk
