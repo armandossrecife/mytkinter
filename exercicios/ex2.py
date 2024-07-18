@@ -10,6 +10,7 @@ def show_content():
             conteudo = file.read()
             text_conteudo.delete(1.0, tkinter.END)
             text_conteudo.insert(tkinter.END, conteudo)
+        aplicacao.title(filename)
     else:
         messagebox.showwarning(title='Dados incompletos', message='Informe o caminho do arquivo')
 

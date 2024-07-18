@@ -76,7 +76,9 @@ class WindowImageViewer:
       self.image2 = PIL.ImageTk.PhotoImage(self.image)
       self.imgtag = self.canvas.create_image(0, 0, anchor="nw", image=self.image2)
     except FileNotFoundError:
-      print("Error: Image file not found!")
+      mensagem_erro = "Error: Image file not found!"
+      print(mensagem_erro)
+      self.show_error_message(mensagem_erro)
 
   def show_error_message(self, message):
     self.app = tkinter.Toplevel()
