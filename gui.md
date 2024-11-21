@@ -1,6 +1,6 @@
 ## Um Breve Histórico da GUI na Ciência da Computação
 
-A **Graphical User Interface (GUI)**, como conhecemos hoje, revolucionou a forma como interagimos com computadores, tornando-os acessíveis a um público muito mais amplo. 
+A **Graphical User Interface (GUI)**, como conhecemos hoje, revolucionou a forma como interagimos com computadores, tornando-os acessíveis a um público muito mais amplo. Antes da GUI, a principal interface com os computadores eram as CLIs [(Command Line Interface)](https://github.com/armandossrecife/mytkinter/blob/main/cli.md)
 
 **Os Pioneiros:**
 
