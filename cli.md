@@ -4,8 +4,8 @@ A **Interface de Linha de Comando (CLI)**, ou *Command Line Interface* em inglê
 
 **Os Primeiros Passos:**
 
-* **Década de 1960:** As primeiras CLIs surgiram com os primeiros sistemas operacionais, como o Multics e o Unix. Essas interfaces eram simples, permitindo ao usuário digitar comandos específicos para executar tarefas.
-* **Década de 1970:** O Unix popularizou o uso da CLI, com seus poderosos comandos e a flexibilidade do shell. O Unix se tornou a base para muitos sistemas operacionais modernos, incluindo o Linux.
+* **Década de 1960:** As primeiras CLIs surgiram com os primeiros sistemas operacionais, como o [Multics](https://en.wikipedia.org/wiki/Multics) e o [Unix](https://en.wikipedia.org/wiki/Unix). Essas interfaces eram simples, permitindo ao usuário digitar comandos específicos para executar tarefas.
+* **Década de 1970:** O Unix popularizou o uso da CLI, com seus poderosos comandos e a flexibilidade do [shell](https://en.wikipedia.org/wiki/Shell_(computing)). O Unix se tornou a base para muitos sistemas operacionais modernos, incluindo o [Linux](https://en.wikipedia.org/wiki/Linux).
 
 **A Ascensão das GUIs:**
 
